@@ -1,7 +1,0 @@
-{
-    "sketch": "src.ino",
-    "output": "build",
-    "board": "arduino:avr:uno",
-    "programmer": "arduino:arduinoisp",
-    "port": "COM5"
-}
